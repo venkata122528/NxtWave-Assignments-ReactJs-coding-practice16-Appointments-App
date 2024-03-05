@@ -85,6 +85,7 @@ class Appointments extends Component {
                 type="date"
                 id="dateInputEl"
                 onChange={this.onChangeDate}
+                value={date}
               />
               <br />
               <button type="submit" className="addButton">
