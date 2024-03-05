@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.starButton {
+  cursor: pointer;
+}
+
+.eachAppointmentList {
+  list-style-type: none;
+  margin: 10px;
+}
